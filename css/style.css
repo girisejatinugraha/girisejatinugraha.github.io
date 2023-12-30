@@ -341,19 +341,19 @@ first-section {
 
 .project-title {
   margin-top: 10px;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .more-details {
   display: block;
   margin-top: 10px;
-  color: #3498db;
+  color: #0000FF;
   text-decoration: none;
   font-weight: bold;
 }
 
 .more-details:hover {
-  color: #2e86c1;
+  color: #0000FF;
 }
 
 /* Resume */
